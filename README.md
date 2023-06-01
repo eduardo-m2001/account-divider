@@ -10,7 +10,7 @@ ___
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
-![image](https://github.com/eduardo-m2001/account-divider/assets/88609782/4c49c71f-d0c9-4610-86a5-8b33d4a44389)
+![image](https://github.com/eduardo-m2001/account-divider/assets/88609782/a7d2e971-2efa-4a58-ab21-457173d58023)
 
 
 ___
