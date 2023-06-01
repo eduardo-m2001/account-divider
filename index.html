@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Divisor de Conta</title>
+  <link rel="stylesheet" type="text/css" href="/styles.css">
+</head>
+<body>
+  <h1>Divisor de Conta</h1>
+
+  <div id="calculator">
+    <h2>Calculadora</h2>
+    <div class="input-section">
+      <label for="customersInput">Clientes:</label>
+      <input type="text" id="customersInput" placeholder="Digite os nomes separados por vírgula.">
+    </div>
+    <div class="input-section">
+      <label for="productsInput">Produtos:</label>
+      <input type="text" id="productsInput" placeholder="Digite os produtos e preços separados por vírgula.">
+    </div>
+    <button id="calculateButton">Calcular</button>
+    <div id="error"></div>
+    <div id="result"></div>
+    <div id="usage-example">
+      <h3>Exemplo de Uso:</h3>
+      <p>Para calcular a divisão corretamente, digite os nomes dos clientes separados por vírgula no campo "Clientes" e os produtos consumidos com seus respectivos preços separados por vírgula no campo "Produtos".</p>
+      <p>Por exemplo:</p>
+      <p>Clientes: João, Maria, Pedro</p>
+      <p>Produtos: Pizza (42.00), Refrigerante (8.00), Suco (7.00)</p>
+    </div>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>
